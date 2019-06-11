@@ -19,13 +19,13 @@ span, article, footer, time, small {
 }
 
 ol, ul {
-  // list-style:
+   list-style:none
 }
 
 img {
-  // display:
-  // width:
-  // height:
+   display: block;
+   width: 100%;
+   height:auto;
 }
 
 input[type="password"],
@@ -45,7 +45,7 @@ button {
 
 button,
 input[type="submit"] {
-  // cursor:
+   cursor:pointer;
 }
 
 /* Clearfix */
